@@ -1,4 +1,5 @@
-// Copyright © 2015 Christin R. Vozar
+// Copyright © 2015-2016 Christian R. Vozar
+// MIT Licensed.
 
 package fizzbuzz
 
