@@ -1,4 +1,4 @@
-// Copyright © 2015 Christin R. Vozar
+// Copyright © 2015-2022 Christin R. Vozar
 
 package fizzbuzz
 

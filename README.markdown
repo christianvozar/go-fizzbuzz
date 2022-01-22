@@ -1,3 +1,3 @@
 # Fizz Buzz
 
-Classic Fizzbuzz test as Go Package.
+Classic Fizzbuzz test implemenetd as a Go package.
